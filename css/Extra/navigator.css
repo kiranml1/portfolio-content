@@ -1,0 +1,7 @@
+#snapPhoto,#CloseWebcam {
+	display:none;
+	visibility: hidden;
+}
+video {
+	width:100%;
+}
